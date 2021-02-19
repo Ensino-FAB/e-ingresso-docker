@@ -1,4 +1,11 @@
-# E-Ingresso-docker
+# E-Indicação-docker
+
+
+
+# Organizacional-API : Acesso ao Swagger
+
+http://localhost:8085/esistens-organizacional-api/swagger-ui.html
+
 
 # PostgreSQL : Configuração
 
